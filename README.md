@@ -19,6 +19,8 @@ Priority Scheduling with Round Robin,
 Re-enter process details,
 Exit.
 
+The user can also re-use the values that were entered previously and switch between cpu scheduling by pressing the number assigned to a specific algorithm without needing to exit the entire program to re-enter them for another algorithm.
+
 View the results:
 
 Gantt Chart

@@ -1,28 +1,16 @@
-Run the main.py file
-Enter number of processes (minimum 3)
-
-For each process, enter:
-
-Arrival Time
-
-Burst Time
-
-Priority (lower number = higher priority)
-
-Select an algorithm from the menu:
-
-1 - FCFS
-
-2 - SJF
-
-3 - SRT
-
-4 - Round Robin (enter time quantum)
-
-5 - Priority (Non-preemptive)
-
-6 - Priority + Round Robin (enter time quantum)
-
-7 - Re-enter process details
-
-0 - Exit
+Run main.py to start the program. Enter the number of processes — minimum of 3. Fill in the following for each process:
+-Arrival 
+-Time Burst 
+-Priority (lower number = higher priority)
+Enter the Time Quantum if using Round Robin or Priority with Round Robin. 
+Select an option from the menu:
+-First Come First-Served (FCFS) 
+-Shortest Job First (SJF)  
+- Shortest Remaining Time (SRT) 
+-Round Robin (RR)
+-Non-preemptive Priority Scheduling
+-Priority Scheduling with Round Robin
+-Re-enter process details
+-Exit
+Click "Run". View the results:
+Gantt Chart, Completion Time, Arrival Time, Priority, Waiting Time (WT) and Turnaround Time (TAT) per process Averages — Average WT and Average TAT

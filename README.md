@@ -1,4 +1,5 @@
 Run main.py to start the program. Enter the number of processes — minimum of 3. Fill in the following for each process:
+
 -Arrival 
 -Time Burst 
 -Priority (lower number = higher priority)
